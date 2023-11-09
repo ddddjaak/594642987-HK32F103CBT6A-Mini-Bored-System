@@ -2,7 +2,7 @@
 .\objects\sht30.o: ..\package\SHT30\sht30.h
 .\objects\sht30.o: ..\HK32F103\CMSIS\HK32F1xx\Include\hk32f10x.h
 .\objects\sht30.o: ..\HK32F103\CMSIS\CM3\Core\core_cm3.h
-.\objects\sht30.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sht30.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\sht30.o: ..\HK32F103\CMSIS\HK32F1xx\Include\system_HK32F10x.h
 .\objects\sht30.o: ..\HK32F103_project\inc\hk32f10x_conf.h
 .\objects\sht30.o: ..\HK32F103\HK32F103X_lib\inc\hk32f10x_adc.h
@@ -30,4 +30,4 @@
 .\objects\sht30.o: ..\HK32F103\HK32F103X_lib\inc\misc.h
 .\objects\sht30.o: ..\package\delay\delay.h
 .\objects\sht30.o: ..\package\I2C\i2c.h
-.\objects\sht30.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sht30.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

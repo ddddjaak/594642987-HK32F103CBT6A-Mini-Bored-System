@@ -511,8 +511,8 @@ Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
 ork --depend=.\objects\startup_hk32f103xb.d -o.\objects\startup_hk32f103xb.o -I
 ..\HK32F103\CMSIS\CM3\Core -I..\HK32F103\HK32F103X_lib\inc -I..\HK32F103\CMSIS\
 HK32F1xx\Include -I..\HK32F103\CMSIS\CM3 -I..\HK32F103\HK32F103X_lib\templates 
--I..\package -I.\RTE\_demo -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISIO
-N_VERSION SETA 529" --predefine="HK32F103 SETA 1" --predefine="HK32F103CBT6A SE
+-I..\package -I.\RTE\_demo -ID:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISIO
+N_VERSION SETA 525" --predefine="HK32F103 SETA 1" --predefine="HK32F103CBT6A SE
 TA 1" --list=.\listings\startup_hk32f103xb.lst ..\HK32F103\CMSIS\HK32F1xx\Sourc
 e\ARM\startup_hk32f103xB.s
 

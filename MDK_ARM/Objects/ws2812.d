@@ -2,7 +2,7 @@
 .\objects\ws2812.o: ..\package\WS2812\ws2812.h
 .\objects\ws2812.o: ..\HK32F103\CMSIS\HK32F1xx\Include\hk32f10x.h
 .\objects\ws2812.o: ..\HK32F103\CMSIS\CM3\Core\core_cm3.h
-.\objects\ws2812.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ws2812.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\ws2812.o: ..\HK32F103\CMSIS\HK32F1xx\Include\system_HK32F10x.h
 .\objects\ws2812.o: ..\HK32F103_project\inc\hk32f10x_conf.h
 .\objects\ws2812.o: ..\HK32F103\HK32F103X_lib\inc\hk32f10x_adc.h

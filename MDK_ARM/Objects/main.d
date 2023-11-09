@@ -3,7 +3,7 @@
 .\objects\main.o: ..\package\SYS\sys.h
 .\objects\main.o: ..\HK32F103\CMSIS\HK32F1xx\Include\hk32f10x.h
 .\objects\main.o: ..\HK32F103\CMSIS\CM3\Core\core_cm3.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: ..\HK32F103\CMSIS\HK32F1xx\Include\system_HK32F10x.h
 .\objects\main.o: ..\HK32F103_project\inc\hk32f10x_conf.h
 .\objects\main.o: ..\HK32F103\HK32F103X_lib\inc\hk32f10x_adc.h
@@ -31,12 +31,12 @@
 .\objects\main.o: ..\HK32F103\HK32F103X_lib\inc\misc.h
 .\objects\main.o: ..\package\delay\delay.h
 .\objects\main.o: ..\package\OLED\oled.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\main.o: ..\package\OLED\bmp.h
 .\objects\main.o: ..\package\WS2812\ws2812.h
 .\objects\main.o: ..\mcu_sdk\wifi.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\main.o: ..\mcu_sdk\protocol.h
 .\objects\main.o: ..\mcu_sdk\system.h
 .\objects\main.o: ..\mcu_sdk\mcu_api.h

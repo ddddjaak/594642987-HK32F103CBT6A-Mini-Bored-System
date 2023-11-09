@@ -1,7 +1,7 @@
 .\objects\system_hk32f10x.o: ..\HK32F103\CMSIS\HK32F1xx\Source\system_hk32f10x.c
 .\objects\system_hk32f10x.o: ..\HK32F103\CMSIS\HK32F1xx\Include\hk32f10x.h
 .\objects\system_hk32f10x.o: ..\HK32F103\CMSIS\CM3\Core\core_cm3.h
-.\objects\system_hk32f10x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_hk32f10x.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\system_hk32f10x.o: ..\HK32F103\CMSIS\HK32F1xx\Include\system_HK32F10x.h
 .\objects\system_hk32f10x.o: ..\HK32F103_project\inc\hk32f10x_conf.h
 .\objects\system_hk32f10x.o: ..\HK32F103\HK32F103X_lib\inc\hk32f10x_adc.h

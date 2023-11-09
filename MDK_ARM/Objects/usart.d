@@ -2,7 +2,7 @@
 .\objects\usart.o: ..\package\usart\usart.h
 .\objects\usart.o: ..\HK32F103\CMSIS\HK32F1xx\Include\hk32f10x.h
 .\objects\usart.o: ..\HK32F103\CMSIS\CM3\Core\core_cm3.h
-.\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\usart.o: ..\HK32F103\CMSIS\HK32F1xx\Include\system_HK32F10x.h
 .\objects\usart.o: ..\HK32F103_project\inc\hk32f10x_conf.h
 .\objects\usart.o: ..\HK32F103\HK32F103X_lib\inc\hk32f10x_adc.h
@@ -28,4 +28,4 @@
 .\objects\usart.o: ..\HK32F103\HK32F103X_lib\inc\hk32f10x_usart.h
 .\objects\usart.o: ..\HK32F103\HK32F103X_lib\inc\hk32f10x_wwdg.h
 .\objects\usart.o: ..\HK32F103\HK32F103X_lib\inc\misc.h
-.\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
