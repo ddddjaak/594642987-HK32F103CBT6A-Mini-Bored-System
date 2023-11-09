@@ -852,7 +852,7 @@ static void SetSysClockToHSI64(void)
     StartUpCounter++;  
   } while((HSIStatus == 0) && (StartUpCounter != HSE_STARTUP_TIMEOUT));
 
-  if ((RCC->CR & RCC_CR_HSERDY) != RESET)
+  if ((RCC->CR & RCC_CR_HSIRDY) != RESET)
   {
     HSIStatus = (uint32_t)0x01;
   }

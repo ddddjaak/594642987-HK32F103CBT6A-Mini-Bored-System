@@ -89,6 +89,7 @@
         "*.cjson": "jsonc",
         "*.wxs": "javascript",
         "*.html": "html",
-        "usart.h": "c"
+        "usart.h": "c",
+        "hk32f10x_it.h": "c"
     }
 }
